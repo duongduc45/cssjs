@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://banxevespa.com/huong-dan-mua-vespa-tra-gop/' target='_blank'><img src='http://banxevespa.com/wp-content/uploads/2016/09/3-600x300.' width='500px'/><br/>13 Mua xe vespa trả góp tại TopCom</a>. Liên Hệ PKD 0936062399. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://banxevespa.com/huong-dan-mua-vespa-tra-gop/' target='_blank'><img src='http://banxevespa.com/wp-content/uploads/2016/09/3-600x300.' width='500px'/><br/>Mua xe vespa trả góp tại TopCom</a>. Liên Hệ PKD 0936062399. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
